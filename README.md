@@ -1,12 +1,11 @@
-# [ Your Name ]
+# Aryan Hingwe
 
-**Quant Researcher** · Physics @ IISc · [ stochastic modelling · options · factor strategies ]
+**Quant Researcher** · Physics @ IISc · stochastic modelling · options · factor strategies 
 
 ---
 
 ### About
-[ 2–3 sentences: who you are, current focus (e.g. the Hawkes-process ETF work),
-  and what you're looking for. Keep it tight. ]
+Integrated BS-MS Physics graduate from IISc Bangalore (CPI 8.0) with strong foundations in stochastic processes, statistical modelling, and computational methods. Hands-on experience in derivatives pricing, portfolio optimisation, and factor modelling. Proficient in Python, C++, and Bloomberg; seeking a quantitative researcher or trader role.
 
 ### Focus Areas
 - [ e.g. Derivatives pricing & hedging ]
