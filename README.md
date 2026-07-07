@@ -17,7 +17,7 @@ Integrated BS-MS Physics graduate from IISc Bangalore with strong foundations in
 
 ### Background
 - Integrated BS-MS, Physics, IISc Bangalore
-- JEE Advanced AIR 1313 · KVPY AIR 60 · WorldQuant IQC 99.7%ile India
+- JEE Advanced AIR 1313 · KVPY AIR 60 · WorldQuant IQC top 2% in level 2
 
 ### Tech
 Python · C++ · Linux · LaTeX · Mathematica · BQL
