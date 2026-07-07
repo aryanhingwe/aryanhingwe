@@ -23,4 +23,6 @@ Integrated BS-MS Physics graduate from IISc Bangalore with strong foundations in
 Python · C++ · Linux · LaTeX · Mathematica · BQL
 
 ### Contact
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanhingwe1612@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle-here) · [CV (PDF)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aryanhingwe1612@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/aryan-hingwe) · [CV (PDF)](https://github.com/aryanhingwe/aryanhingwe/blob/main/Aryan_Hingwe_CV_Resume.pdf)
+
+(#)
